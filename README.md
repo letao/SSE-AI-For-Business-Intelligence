@@ -1,4 +1,4 @@
-# SSE AI For Business Intelligence course materials
+# SSE Riga AI course materials
 Repository with the data and code for the SSE Riga AI course.
 
 -Data <br>
